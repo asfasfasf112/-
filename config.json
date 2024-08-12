@@ -1,0 +1,24 @@
+
+{
+    "prefix" : "$",
+    "owner" : "1199765993476587542",
+    "probot" : "282859044593598464",
+    "buylogs" : "1268303984700035154",
+    "subend" : "1268303984700035154",
+    "webhookurl" : "https://discord.com/api/webhooks/1272315896928534558/V_HmDP1iRvr-0Hn4JHjPTRIaviiG23vIGS7Wc_JYZ1rblRVmF3CJmYh52Hw5P9FoP0FA",
+
+    "buyrole1" : "1266801845595148440",
+    "buyrole2" : "1266801848485019678",
+    "buyrole3" : "1266801849865076736",
+    "buyrole4" : "1266801851274362971",
+
+    "price1" : "500000",
+    "price2" : "300000",
+    "price3" : "200000",
+    "price4" : "70000",
+  
+    "time1" : "3000d", 
+    "time2" : "3000d",
+    "time3" : "3000d",
+    "time4" : "3000d"
+}
